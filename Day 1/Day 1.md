@@ -1,9 +1,9 @@
 Recap of what i have learnt so far 
 
 Tools
--Truffle suit 
--Ganache
--Node.js runtime
+- Truffle suit 
+- Ganache
+- Node.js runtime
 
 Languages
 -JavaScript 
