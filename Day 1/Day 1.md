@@ -6,15 +6,15 @@ Tools
 - Node.js runtime
 
 Languages
--JavaScript 
--Solidity 
--Python 
--C++
+- JavaScript 
+- Solidity 
+- Python 
+- C++
 
 Framewoks 
--React.js
+- React.js
 
 Concepts 
--Distributed Architechture
--Blockchain 
+- Distributed Architechture
+- Blockchain 
 
