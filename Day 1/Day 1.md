@@ -18,3 +18,7 @@ Concepts
 - Distributed Architechture
 - Blockchain 
 
+Courses 
+- JS jonas 
+- Ethereum BLockchain Developer UDEMY 
+- Some Misc Coursera Courses
